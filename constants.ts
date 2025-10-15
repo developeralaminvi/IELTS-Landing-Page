@@ -1,0 +1,23 @@
+
+export const packageItems: string[] = [
+    'Original Cambridge academic 10-20 (11 Books)',
+    'Bangla Solution Explanation 10-20 (11 Books)',
+    'Cambridge Official Guide',
+    'Makkar Speaking September to December (2025)',
+    'Cambridge Vocabulary English to Bangla synonym-antonym (1-20)',
+    'Idea Easy topic by Liz (Writing)',
+    'Makkar Writing Task 1 Graph (New Edition 2025)',
+    'Makkar Writing Task 2 Essay (New Edition 2025)',
+    "Simon's Master Speaking latest",
+    'Simon writing task 1+2',
+    'Reachel Mitchel speaking',
+    'Reachel Mitchel Writing takes 1&2',
+    'Cambridge Common Mistakes',
+    'Liz speaking for IELTS',
+    'Liz reading for IELTS',
+    'Liz writing task 1+2',
+    'British council Smart CUE card (50 Pcs)',
+    'British council Master CUE card (50 Pcs)',
+    'British council Advance Cue Card',
+    'British council Actual Cue Card',
+];
